@@ -1,2 +1,2 @@
-# Nonead_Studio
+# Nonead-Studio
 LLM Chat
